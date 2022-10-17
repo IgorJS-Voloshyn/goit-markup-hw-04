@@ -485,6 +485,8 @@ display: block;
 }
 
 .social-footer-title{
+    margin-bottom: 20px;
+
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
